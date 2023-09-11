@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: #333333;
+    background-color: #f1f1f1;
 }
 
 .container {
@@ -37,7 +37,7 @@ body {
     justify-content: space-between;
 }
 #bday {
-    color: white;
+    color: black;
     text-shadow: #333;
     /* font-weight: 700; */
     font-size: 4em;
